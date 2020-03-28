@@ -1,7 +1,7 @@
 import React from 'react'
 
-const Card = () => {
-
+const Card: React.FC = () => {
+  return <div>Card</div>
 }
 
 export {
